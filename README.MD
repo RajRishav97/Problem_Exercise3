@@ -1,13 +1,15 @@
 **********Java Language Basics - Practice Exercise 3***********
 ----------------------------------------------------------------------------------------------------
+
 Ques1
 
 Create a class called StudentMarks, which prompts user for the number of students, reads
 it from the keyboard, and saves it in an int variable called numOfStudents. It then prompts user
 for the grades of each of the students and saves them in an int array called stuGrades. Your
 program shall check that the grade is between 0 and 100 else has to trow an error message.
----------------------------------------------------------------------------------------------------------------------
- Ques2
+
+---
+Ques2
  
  Write a program to compute the addition of two matrix, Read the number of rows and
 columns as input, also the values of each matrix
@@ -51,21 +53,30 @@ Grmny
 Egypt
 czchslvk
 
----
+-------------
 Ques5
  
  Write a program to create a ChessBoard pattern with the help of multidimensional array,
 where WWrepresents white color and BB represents Black color.
 Output:
 My Chess Board
+
 WW|BB|WW|BB|WW|BB|WW|BB|
+
 BB|WW|BB|WW|BB|WW|BB|WW|
+
 WW|BB|WW|BB|WW|BB|WW|BB|
+
 BB|WW|BB|WW|BB|WW|BB|WW|
+
 WW|BB|WW|BB|WW|BB|WW|BB|
+
 BB|WW|BB|WW|BB|WW|BB|WW|
+
 WW|BB|WW|BB|WW|BB|WW|BB|
+
 BB|WW|BB|WW|BB|WW|BB|WW|
+
 ---
 Ques6
 
@@ -77,6 +88,7 @@ Input: 54,53,52,51,50,49,48
 Output : 54,53,52,51,50,49,48 are consecutive numbers
 Input: 1,2,3,4,5,6,6
 Output: 1,2,3,4,5,6,6 non consecutive numbers
+
 ---
 Ques7
 
@@ -84,22 +96,26 @@ Create a class with a main( ) that throws an object of class Exception inside a 
 a. Give the constructor for Exception a String argument.
 b. Catch the exception inside a catch clause and print the String argument.
 c. Add a finally clause and print a message to prove you were there.
+
 ---
 Ques8
 
  Write a program that will generate exceptions of type NegativeArraySizeException,
 IndexOutOfBoundsException, NullPointerException. Record the catching of each exception by
 displaying the message stored in the exception object.
+
 -------------------------------------------------------------------------------------------------------------------------------
 Ques9
 
  Write a program to read the content of a text file, convert the content in upper case and print
 the same in console along with the length of the file.
+
 -------------------------------------------------------------------------------------------------------------------------------
 Ques10
  
  Write a program to find all files of a folder and select only given extention fileName and read
 content of this file using byte array
+
 --------------------------------------------------------------------------------------------------------------
 Ques11
  
